@@ -1,15 +1,15 @@
 [
 	{
 		"time": "2024/02/17 21:30",
-		"versionCode": 0,
+		"versionCode": 100,
 		"versionName": "v1.0.0",
 		"versionInfo": "初始版本",
 		"updateType": "solicit",
 		"downloadUrl": "https://github.com/lwx-xin/release_module/releases/download/ikarosMobile/ikaros_v1.0.0.apk"
 	},
 	{
-		"time": "2024/02/18 22:10",
-		"versionCode": 1,
+		"time": "2024/02/18 23:20",
+		"versionCode": 101,
 		"versionName": "v1.0.1",
 		"versionInfo": "添加检测版本更新",
 		"updateType": "solicit",
