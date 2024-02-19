@@ -11,8 +11,16 @@
 		"time": "2024/02/18 23:20",
 		"versionCode": 101,
 		"versionName": "v1.0.1",
-		"versionInfo": "添加检测版本更新",
+		"versionInfo": "1.添加检测版本更新\n2.小说添加切换字体，\n3.添加了一个新的背景颜色",
 		"updateType": "solicit",
 		"downloadUrl": "https://github.com/lwx-xin/release_module/releases/download/ikaros_1.0.1/ikaros_1.0.1.apk"
+	},
+	{
+		"time": "2024/02/19 21:40",
+		"versionCode": 101.001,
+		"versionName": "v1.0.1.001",
+		"versionInfo": "在v1.0.1的基础上修复小说翻页时，首行或者末行文字只显示一部分的bug",
+		"updateType": "solicit",
+		"downloadUrl": "https://github.com/lwx-xin/release_module/releases/download/ikaros_1.0.1.001/ikaros_1.0.1.001.apk"
 	}
 ]
