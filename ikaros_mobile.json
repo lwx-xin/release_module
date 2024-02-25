@@ -22,5 +22,13 @@
 		"versionInfo": "修复小说翻页时，首行或者末行文字只显示一部分的bug",
 		"updateType": "solicit",
 		"downloadUrl": "https://github.com/lwx-xin/release_module/releases/download/ikaros_1.0.2/ikaros_1.0.2.apk"
+	},
+	{
+		"time": "2024/02/25 21:30",
+		"versionCode": 103,
+		"versionName": "v1.0.3",
+		"versionInfo": "1.新增在线阅读功能\n2.添加部分功能的log日志\n3.添加fanqieApi的缓存\n4.添加TTS的Demo功能",
+		"updateType": "solicit",
+		"downloadUrl": "https://github.com/lwx-xin/release_module/releases/download/ikaros_1.0.3/ikaros_1.0.3.apk"
 	}
 ]
