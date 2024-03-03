@@ -30,5 +30,13 @@
 		"versionInfo": "1.新增在线阅读功能\n2.添加部分功能的log日志\n3.添加fanqieApi的缓存\n4.添加TTS的Demo功能",
 		"updateType": "solicit",
 		"downloadUrl": "https://github.com/lwx-xin/release_module/releases/download/ikaros_1.0.3/ikaros_1.0.3.apk"
+	},
+	{
+		"time": "2024/03/03 19:05",
+		"versionCode": 104,
+		"versionName": "v1.0.4",
+		"versionInfo": "1.优化DB操作(加锁)\n2.添加听小说功能(demo版，息屏状态下只能听十分钟)",
+		"updateType": "solicit",
+		"downloadUrl": "https://github.com/lwx-xin/release_module/releases/download/ikaros_1.0.4/ikaros_1.0.4.apk"
 	}
 ]
