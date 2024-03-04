@@ -38,5 +38,13 @@
 		"versionInfo": "1.优化DB操作(加锁)\n2.添加听小说功能(demo版，息屏状态下只能听十分钟)",
 		"updateType": "solicit",
 		"downloadUrl": "https://github.com/lwx-xin/release_module/releases/download/ikaros_1.0.4/ikaros_1.0.4.apk"
+	},
+	{
+		"time": "2024/03/04 20:40",
+		"versionCode": 105,
+		"versionName": "v1.0.5",
+		"versionInfo": "1.修复小说翻到下一章时会有卡顿的bug\n2.修复息屏状态下小说只能朗读10分钟的bug\n3.添加在阅读小说，朗读小说时不会休眠的功能\n4.添加获取设备ID的API",
+		"updateType": "solicit",
+		"downloadUrl": "https://github.com/lwx-xin/release_module/releases/download/ikaros_1.0.5/ikaros_1.0.5.apk"
 	}
 ]
